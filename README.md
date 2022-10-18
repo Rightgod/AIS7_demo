@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/112333986/196315001-e94118ad-a693-44db-ac72-21d984d2a1c3.png)
 
 
-#치킨먹는 순서
+## 치킨먹는 순서
 
 * 1. 다리
 * 2. 날개
