@@ -4,12 +4,10 @@
 
 ## 제목 1
 
-## 제목 2
-
-## 제목 3
 
 * 내용1
-* 내용2
-* 내용3
 
+
+
+#이미지 올리기
 ![image](https://user-images.githubusercontent.com/112333986/196314455-77cb5f65-993d-449c-92f6-f95b2e7cb6eb.png)
