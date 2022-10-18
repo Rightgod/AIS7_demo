@@ -7,7 +7,5 @@
 
 * 치! 킨!
 
-![image](https://user-images.githubusercontent.com/112333986/196315378-7e24ec83-24d4-4231-a164-36df3a9fbb71.png)
+![image](https://user-images.githubusercontent.com/112333986/196315694-b7473ade-a63b-4c2b-8e2a-88d20ce3fa62.png)
 ![image](https://user-images.githubusercontent.com/112333986/196315001-e94118ad-a693-44db-ac72-21d984d2a1c3.png)
-![image](https://user-images.githubusercontent.com/112333986/196315247-9ce18a31-6936-4796-8c8d-dfb43b733e02.png)
-![image](https://user-images.githubusercontent.com/112333986/196315285-ebcee649-1d63-4582-b881-564cfb081096.png)
