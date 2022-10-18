@@ -2,12 +2,10 @@
 멋쟁이 사자처럼 AIS 실습
 
 
-## 제목 1
+## 이이잉 칙~힌
 
 
-* 내용1
+* 치! 킨!
 
 
-
-#이미지 올리기
-![image](https://user-images.githubusercontent.com/112333986/196314455-77cb5f65-993d-449c-92f6-f95b2e7cb6eb.png)
+![image](https://user-images.githubusercontent.com/112333986/196315001-e94118ad-a693-44db-ac72-21d984d2a1c3.png)
